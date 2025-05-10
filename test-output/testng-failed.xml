@@ -6,7 +6,7 @@
       <class name="MyPachage.Finaltestcases">
         <methods>
           <include name="setup"/>
-          <include name="checkdeparturedate"/>
+          <include name="checkrandonlywebsitelanguage"/>
         </methods>
       </class> <!-- MyPachage.Finaltestcases -->
     </classes>
